@@ -87,6 +87,7 @@ Explore additional resources to deepen your understanding of Pulumi and OCI:
 - [Pulumi .NET Tools](https://www.pulumi.com/docs/languages-sdks/dotnet/)
 - [OCI OKE (Kubernetes) with Pulumi](https://docs.oracle.com/en/learn/oci-oke-pulumi/index.html)
 - [OCI Compute with Pulumi](https://docs.oracle.com/en/learn/oci-compute-vcn-pulumi/index.html)
+- [What Is Pulumi And How To Use It](https://medium.com/env0/what-is-pulumi-and-how-to-use-it-fe1edc7acde4)
 
 ---
 
